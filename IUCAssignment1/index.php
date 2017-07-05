@@ -1,10 +1,10 @@
 <?php
 
 /* Connection Parameters PRIVATE!*/
-$host = "us-cdbr-iron-east-03.cleardb.net";
-$username = "b0560708207a82";
-$password = "f1406279";
-$database = "heroku_af71fe582a777b2";
+$host = "***";
+$username = "***";
+$password = "***";
+$database = "***";
 $newline = "<br/>";
 
 /* MySql Connection. */
